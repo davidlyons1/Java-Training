@@ -3,7 +3,6 @@ package basics;
 public class b_SalaryCalculator_Variables {
 	public static void main(String [] args) {
 		//create a variable to define our career
-		
 		//define a variable
 		String career;
 		System.out.println("Program is starting");
